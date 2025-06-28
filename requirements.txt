@@ -1,0 +1,45 @@
+# Core LangChain library
+langchain
+
+# For community-contributed features
+langchain-community
+
+# For experimental features
+langchain-experimental
+
+# For building APIs
+fastapi
+
+# For environment variable management
+python-dotenv
+
+# For building web applications
+streamlit
+
+# For running the FastAPI server
+uvicorn
+
+# For data validation
+pydantic
+
+# For making HTTP requests
+httpx
+requests
+
+# For Google services
+langchain_google_community
+
+# For Tavily services
+langchain_tavily
+
+# For Groq services
+langchain_groq
+
+# For OpenAI services
+langchain_openai
+
+# For graph-based workflows
+langgraph
+
+# For local development
+-e .
